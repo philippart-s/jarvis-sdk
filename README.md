@@ -8,4 +8,5 @@ In the package [fr.wilda.jarvis.sdk.ovhcloud](./src/main/java/fr/wilda/jarvis/sd
 You need to set these environment variables:
   - `OVH_APPLICATION_SECRET`
   - `OVH_CONSUMER_KEY`
+  
 📄 see OVHcloud API [documentation](https://help.ovhcloud.com/csm/en-gb-api-getting-started-ovhcloud-api?id=kb_article_view&sysparm_article=KB0042784).
